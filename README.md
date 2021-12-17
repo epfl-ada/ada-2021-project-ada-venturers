@@ -27,13 +27,16 @@ Then, we want to analyze how much each state speaks about climate change and if 
 
 ## Timeline: (from M2)
 •	Optimization of quote selection using techniques from the course not seen yet
+
 •	Distinction of the opinion of speaker also using ML methods
+
 •	Further analysis of the data: occurrence of climate change related quotes for each speaker, analysis according to attributes (gender, political party, country…), make time related analysis, correlate with campaign dates and weather disasters, analyse who uses which meaningful word (ex:‘crisis’), who has which opinion, correlation with environmental indicators of states/countries....
+
 •	Nice visualizations and putting results together in a coherent data story.
 ## Organization within the team: 
-Arthur: Timeline plot, GitHub Website
-Adam: LDA, GitHub Website
-Elsa: Political analysis, maps and plots
-Sandy: Data Cleaning, Preliminary analysis
+- Arthur: Timeline plot, GitHub Website
+- Adam: LDA, GitHub Website
+- Elsa: Behavioral analysis, maps and plots
+- Sandy: Data Cleaning, Preliminary analysis
 
 
