@@ -23,7 +23,7 @@ Then, we would like to inspect how people talk about climate change and what wor
 
 After that, the idea is to visualize how the quotes about climate change are represented among the parties and then to see which proportion of the quotes contain meaningful words highlighted by the LDA. 
 
-Then, we want to analyze how much each state speaks about climate change and if this can be related to their behaviour and political choices agains global warming. By taking representative speakers the different states, we can relate the quotes to a specific state. To get an idea of a state's behavior when it comes to climate change, we use the dataset on the CO2 emissions and the one with environmental scores. This would allow us to see if indeed, states that speak a lot about climate change indeed act as they preach.
+Then, we want to analyze how much each state speaks about climate change and if this can be related to their behaviour and political choices against global warming. By taking representative speakers the different states, we can relate the quotes to a specific state. To get an idea of a state's behavior when it comes to climate change, we use the dataset on the CO2 emissions and the one with environmental scores. This would allow us to see if indeed, states that speak a lot about climate change indeed act as they preach.
 
 ## Timeline: (from M2)
 •	Optimization of quote selection using techniques from the course not seen yet
