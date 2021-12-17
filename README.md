@@ -18,7 +18,7 @@ The first analysis is a temporal analysis. To see if there is any relation betwe
 
 Then, we want to find how people talk about climate change, what words are they using to talk about it. We perform a topic analysis with an LDA (Latent Dirichlet Allocation). The idea is to split these quotes by the stance held and extract different opinions. We obtain categories and try to find the topic, what relates those quotes. For example, there are quotes that are alarmist, some are about actions, some may be pessimistic, some may be about conspiracy… Once we get words into meaningful categories, we want to relate political party and how they talk about climate change, see if there is any trend. 
 
-After that, the idea is to visualize how the quotes about climate change are represented among the parties
+After that, the idea is to visualize how the quotes about climate change are represented among the parties.
 Also, we want to see how much these words were used in quotes about global warming. For example, we could see how many times the word ‘crisis’ is used in the quotes previously selected about global warming. We can then see if a political party uses it more than the other.
 Since we have the dataset with information about the speakers, we would use it to perform a crossed analysis with the quotes extracted. We could see who the most active speakers on the subject are. 
 Finally, we will see if words go with actions taken against global warming. By taking the governors and the senators of the different states, we can then relate the quotes to a specific state. We use here the dataset on the CO2 emissions and the environmental index. This allow us to see if indeed, politicians that are in the action/alarmist mode indeed act as they preach.
