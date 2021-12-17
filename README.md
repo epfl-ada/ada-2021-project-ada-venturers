@@ -7,9 +7,12 @@ Now more than ever, climate change is a very hotly debated topic which often com
 ## Research questions: 
 Who speaks the most about climate change? What is their position on the subject? Do politicians all have the same words and opinions on the subject ? What factors affect this position? What are the periods when the subject is most highlighted, and at the heart of the debates ? Do voting periods have an impact? Does speaking about the problem mean taking action?
 ## Proposed additional datasets:
-•	Informations about the speaker from the Wikidata knowledge base
-•	Dataset of events with dates such as campaign dates or extreme weather events.
-•	Dataset containing environmental index for each state: https://www.governing.com/next/what-is-the-greenest-most-environmentally-friendly-state.html
+•	Informations about the speaker from the Wikidata knowledge base 
+
+•	Dataset of events with dates such as campaign dates or extreme weather events. 
+
+•	Dataset containing environmental index for each state: https://www.governing.com/next/what-is-the-greenest-most-environmentally-friendly-state.html 
+
 •	Dataset containing the CO2 emission of each state: https://www.wri.org/data/climate-watch-historical-emissions-data-countries-us-states-unfccc'
 ## Methods:
 First, we need to perform filtering of the data. We chose to remove the quotes that do not have a speaker. The first critical task for our project is to identify the quotes about climate change. To this end, we selected some specific keywords related to climate change and picked all the quotes containing them. Other methods like Word2Vec or Doc2Vec were not convincing: they were taking a lot of quotes that are not directly related to climate change.
