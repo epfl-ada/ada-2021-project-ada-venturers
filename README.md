@@ -29,3 +29,5 @@ Adam: LDA, GitHub Website
 Elsa: Political analysis, maps and plots
 Sandy: Data Cleaning, Preliminary analysis
 
+## Link the the Data Story:
+https://arthurgardon.github.io/ada_please_act/#topic=5&lambda=1&term=
